@@ -44,7 +44,7 @@ bot = Client(
     "bot",
     api_id="24411134",
     api_hash="da78963da6eaaf521133e00628434271",
-    bot_token="8068196040:AAG8y9pXMBGrap8RLZhEbmIE1EXSlLyeV78"
+    bot_token=" "
 )
 
 processing_request = False
